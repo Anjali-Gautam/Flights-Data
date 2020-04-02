@@ -41,7 +41,6 @@ library(ggplot2)
 #### Reading the two Files
 
 ``` r
-setwd("D:\\Cincinnati\\Classes\\12. Statistical Modelling")
 faa1 <- read_excel("FAA1.xls")
 faa2 <- read_excel("FAA2.xls")
 ```
